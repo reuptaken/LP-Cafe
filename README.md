@@ -1,4 +1,4 @@
-# LP-Cafe
+# LP Cafe 
 
 ***Repository of links and scripts for Liquidity Providers (focused on Uniswap v3).***
 
@@ -9,7 +9,9 @@
 ### Series by Reuptake
 
 [Part 1 (ranges, fee boost, impermanent loss)](https://medium.com/p/49bf3a0bd2ec/)
+
 [Part 2 (rebalancing, compounding impermanent loss)](https://reuptake.medium.com/liquidity-providing-in-uniswap-v3-2-5e24af7c346c)
+
 [Part 3 (different types of trades, arbitrage and its consequences)](https://reuptake.medium.com/liquidity-providing-in-uniswap-v3-3-c82fb9a5f545)
 
 ### Other
@@ -20,12 +22,16 @@
 ### Basics
 
 [Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+
 [Blog post introducing v3](https://uniswap.org/blog/uniswap-v3/)
+
 
 ### Resources for developers
 
 [Uniswap GitHub](https://github.com/Uniswap)
+
 [Uniswap v3 docs](https://docs.uniswap.org/)
+
 [Uniswap SDK v3 documentation](https://docs.uniswap.org/SDK/)
 
 
@@ -42,7 +48,9 @@
 ### Information
 
 [Defi Lab simulator](https://defi-lab.xyz/uniswapv3simulator)
+
 [Revert.finance - LP positions stats](https://revert.finance/)
+
 [Lakteks v3 Pools – positions stats](https://uniswap-v3-pools.vercel.app/)
 
 ### Position management
