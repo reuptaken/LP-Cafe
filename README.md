@@ -16,6 +16,7 @@
 
 ### Other
 
+[Uniswap v3 Math: Capital Efficiency](https://tienshaoku.medium.com/uniswap-v3-maths-explained-capital-efficiency-86257c44405a)
 
 ## Official resources from Uniswap
 
@@ -45,9 +46,11 @@
 
 ## Tools
 
-### Information
+### Information/simulation
 
 [Defi Lab simulator](https://defi-lab.xyz/uniswapv3simulator)
+
+[Multiple positions simulator](https://uniswap-simulator.vercel.app/)
 
 [Revert.finance - LP positions stats](https://revert.finance/)
 
