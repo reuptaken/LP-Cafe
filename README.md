@@ -64,6 +64,8 @@
 
 [Lakteks v3 Pools – positions stats](https://uniswap-v3-pools.vercel.app/)
 
+[PoolGenie – Pair Impermanent Loss & ROI](https://poolgenie.xyz/)
+
 ### Position management
 
 [Charm.fi alpha vaults](https://alpha.charm.fi/)
