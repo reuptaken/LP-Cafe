@@ -14,9 +14,15 @@
 
 [Part 3 (different types of trades, arbitrage and its consequences)](https://reuptake.medium.com/liquidity-providing-in-uniswap-v3-3-c82fb9a5f545)
 
+### Academic papers
+
+[Strategic Liquidity Provision in Uniswap v3 (Harvard University)](https://arxiv.org/pdf/2106.12033.pdf)
+
 ### Other
 
 [Uniswap v3 Math: Capital Efficiency](https://tienshaoku.medium.com/uniswap-v3-maths-explained-capital-efficiency-86257c44405a)
+
+[Impermanent Loss in Uniswap v3](https://medium.com/auditless/impermanent-loss-in-uniswap-v3-6c7161d3b445)
 
 ## Official resources from Uniswap
 
@@ -27,7 +33,7 @@
 [Blog post introducing v3](https://uniswap.org/blog/uniswap-v3/)
 
 
-### Resources for developers
+### Resources for developers 
 
 [Uniswap GitHub](https://github.com/Uniswap)
 
@@ -49,6 +55,8 @@
 ### Information/simulation
 
 [Defi Lab simulator](https://defi-lab.xyz/uniswapv3simulator)
+
+[Croco.finance multiple positions simulator](https://v3.croco.finance/#/simulator)
 
 [Multiple positions simulator](https://uniswap-simulator.vercel.app/)
 
