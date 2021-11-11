@@ -62,7 +62,7 @@
 
 [Revert.finance - LP positions stats](https://revert.finance/)
 
-[Lakteks v3 Pools – positions stats](https://uniswap-v3-pools.vercel.app/)
+[Seedle.finance – Position management & stats](https://seedle.finance/)
 
 [PoolGenie – Pair Impermanent Loss & ROI](https://poolgenie.xyz/)
 
