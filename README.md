@@ -18,11 +18,19 @@
 
 [Strategic Liquidity Provision in Uniswap v3 (Harvard University)](https://arxiv.org/pdf/2106.12033.pdf)
 
+[G3M Impermanent Loss Dynamics (Nassib Boueri)](https://arxiv.org/pdf/2108.06593.pdf)
+
 ### Other
 
 [Uniswap v3 Math: Capital Efficiency](https://tienshaoku.medium.com/uniswap-v3-maths-explained-capital-efficiency-86257c44405a)
 
+[Selecting a Uniswap V3 Range](https://medium.com/arrakis-finance/selecting-a-uniswap-v3-range-da34d8741089)
+
+[When Uniswap v3 returns more fees for passive LPs](https://uniswap.org/blog/fee-returns)
+
 [Impermanent Loss in Uniswap v3](https://medium.com/auditless/impermanent-loss-in-uniswap-v3-6c7161d3b445)
+
+[Series of articles by Guillaume Lambert](https://lambert-guillaume.medium.com/)
 
 ## Official resources from Uniswap
 
@@ -54,18 +62,30 @@
 
 ### Information/simulation
 
+[APY Vision detailed position stats with excelent graphs](https://app.apy.vision/)
+
+[Blockin.ai: position, pools, LP rankings](https://blockin.ai/)
+
 [Defi Lab simulator](https://defi-lab.xyz/uniswapv3simulator)
 
 [Croco.finance multiple positions simulator](https://v3.croco.finance/#/simulator)
 
 [Multiple positions simulator](https://uniswap-simulator.vercel.app/)
 
-[Revert.finance - LP positions stats](https://revert.finance/)
+[Revert.finance - LP positions stats + initiator](https://revert.finance/)
 
-[Lakteks v3 Pools – positions stats](https://uniswap-v3-pools.vercel.app/)
+[Lakteks v3 Pools – positions stats + swap&add](https://uniswap-v3-pools.vercel.app/)
 
 [PoolGenie – Pair Impermanent Loss & ROI](https://poolgenie.xyz/)
+
+[Fee estimation](https://science.flipsidecrypto.xyz/uniswapv3/)
 
 ### Position management
 
 [Charm.fi alpha vaults](https://alpha.charm.fi/)
+
+[Defiedge](https://defiedge.io/)
+
+## Resources
+
+[List of Uniswap related articles, resources and tools](https://github.com/GammaStrategies/awesome-uniswap-v3)
